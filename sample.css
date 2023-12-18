@@ -1,0 +1,39 @@
+/*CSS for body*/
+body
+{
+    font-family:"Poppins", sans-serif;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+}
+
+.logo{
+    font-weight: 700;
+    padding-right: 27%;
+}
+
+.nav-link{
+    font-weight: 400;
+    align-items: center;
+}
+
+.d-lg-flex{
+    color: deepskyblue
+}
+
+.content{
+    padding-top: 10%;
+    padding-left: 10%;
+    width: 50%;
+}
+
+.image-container{
+    padding-left: 10%;
+    width: 50%;
+}
+
+.image{
+    position: relative;
+    margin-right: 0%;
+}
